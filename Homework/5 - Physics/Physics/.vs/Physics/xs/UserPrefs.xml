@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{2F00C848-03D2-452F-506A-EE212A5702EC}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/CameraScript.cs">
+    <Files>
+      <File FileName="Assets/Script/Trigger.cs" Line="1" Column="1" />
+      <File FileName="Assets/Script/CameraScript.cs" />
+      <File FileName="Assets/Script/GravityControl.cs" />
+      <File FileName="Assets/Script/PlayerMovement.cs" />
+      <File FileName="Assets/Script/BallController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Physics" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="Trigger.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b5e7998e-210a-466c-bae7-176bafc3059b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
