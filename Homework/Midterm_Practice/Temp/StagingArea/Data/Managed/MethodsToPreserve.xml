@@ -1,0 +1,11 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="ButtonChange">
+			<method name="BackgroundChange"/>
+			<method name="ParticleChange"/>
+		</type>
+		<type fullname="SetBtnActive">
+			<method name="BtnOff"/>
+		</type>
+	</assembly>
+</linker>
